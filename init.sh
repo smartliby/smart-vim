@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# 2015.12.23
 # create directories
 mkdir -p vim/bundle
 
